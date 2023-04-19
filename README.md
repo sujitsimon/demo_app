@@ -39,3 +39,5 @@ To Install React App Dependent Node Modules
 
 Select or Drag and Drop the CSV file in the dropzone and click upload to see the results
 ## Demo
+![Demo](https://github.com/sujitsimon/demo_app/blob/main/demo_video/demo.gif)
+
